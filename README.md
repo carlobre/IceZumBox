@@ -3,4 +3,4 @@
 
 ## Documentation
 
-[You can find more information on this wiki](https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki)
+[You can find more information on this wiki](https://github.com/carlobre/IceZumBox/wiki)
