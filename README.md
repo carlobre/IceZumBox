@@ -1,8 +1,9 @@
 # Icezum Alhambra 3D Box
-3D printable Box for the Icezum Alhambra board
+
+Caja 3D imprimible para la Icezum Alhambra
 
 ![](https://github.com/carlobre/IceZumBox/raw/master/Imagenes/IceZumBox1.jpg)
 
-## Documentation
+## Documentacion
 
-[You can find more information on this wiki](https://github.com/carlobre/IceZumBox/wiki)
+[Para más información consulta la wiki](https://github.com/carlobre/IceZumBox/wiki)
